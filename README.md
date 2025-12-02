@@ -6,6 +6,6 @@
 - 👓 Skills :
   1) Simulation [MatLab,LTspice,ETAP]
   2) Coding [Python,C++,C]
-  3) Hardware[ESP32,Raspberry Pi,STM32,8051]
-  4) Linux[Debian,Ubunutu,WSL]
+  3) Hardware [ESP32,Raspberry Pi,STM32,8051]
+  4) Linux [Debian,Ubunutu,WSL]
 
